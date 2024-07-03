@@ -20,6 +20,7 @@
   display: flex;
   align-items: center;
   border-radius: 5px;
+  margin-left: 40px;
 }
 
 .productdetails-product-image {
@@ -104,4 +105,4 @@
 .productdetails-product-info p {
   margin: 10px 0;
 }
-hi
+
