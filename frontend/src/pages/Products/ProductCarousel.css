@@ -1,15 +1,21 @@
 .product-carousel {
   width: 500px;
   margin: auto;
-  height: 700px;
+  height: 740px;
   border-radius: 40px;
   justify-content: center;
   color: black;
 }
 
+.product-carousel:hover{
+    transform: translateY(-10px);
+}
+
 .product-carousel-card {
   text-align: center;
 }
+
+
 
 .product-carousel-image {
   width: 500px;
